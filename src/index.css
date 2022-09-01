@@ -1,0 +1,39 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+li {
+  list-style-type: none;
+}
+
+body {
+  font-size: 16px;
+  color: #333;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1rem;
+}
+
+/* bulding class */
+.textCenter {
+  text-align: center;
+}
+
+.headingSecondary {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.headingTertiary {
+  font-size: 1.6rem;
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
